@@ -1,0 +1,6 @@
+[submodule "ece408_project"]
+	path = ece408_project
+	url = https://github.com/illinois-impact/ece408_project.git
+[submodule "gpu-algorithms-labs"]
+	path = gpu-algorithms-labs
+	url = https://github.com/illinois-impact/gpu-algorithms-labs.git
