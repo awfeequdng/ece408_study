@@ -1,0 +1,4 @@
+
+
+all:
+	nvcc vec_add.cu 
